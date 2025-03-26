@@ -9,7 +9,7 @@ on:
 jobs:
   backend_flask:
     name: Backend (Flask)
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest #small change
 
     steps:
       # Checkout the repository
